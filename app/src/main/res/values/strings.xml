@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HelpDesk 1.0</string>
+    <string name="acesso_sua_conta">Acesse sua conta</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="login">Login</string>
+    <string name="voltar">Voltar</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="sair">Sair</string>
+    <string name="solicitacoes">Solicitações</string>
+    <string name="todas">Todas</string>
+    <string name="finalizadas">Finalizadas</string>
+    <string name="em_andamento">Em andamento</string>
+    <string name="minhas">Minhas</string>
+    <string name="sem_solicitacoes">Sem solicitações</string>
+    <string name="nova_solicitacao">Nova solicitação</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="equipamento">Equipamento</string>
+    <string name="descricao_do_problema">Descrição do problema</string>
+    <string name="solucao">Solução</string>
+    <string name="encerrar_solicitacao">Encerrar solicitação</string>
+    <string name="solicitacao">Solicitação</string>
+</resources>
